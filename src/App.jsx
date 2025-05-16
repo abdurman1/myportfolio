@@ -22,6 +22,9 @@ function App() {
           <button className='blue'><a href="#"></a>Contact</button>
         </div>
       </div>
+      <div className='projects'>
+        <h1>Projects</h1>
+      </div>
     </>
   )
 }
