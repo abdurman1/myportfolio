@@ -13,8 +13,11 @@ function App() {
         <h2>Hi I'm a <span>Frontend Developer!</span></h2>
         <h1>Abdurrahman Abuoun</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda veniam cum nemo, mollitia vero magnam explicabo eos tempora vitae saepe nihil, corrupti quas ullam quos blanditiis excepturi perspiciatis ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nam dicta dignissimos. Nostrum nesciunt eius quidem voluptatem laborum, dolores itaque consequuntur suscipit dolorum unde! Id sapiente excepturi sunt alias quas!</p>
-        <button><a href="#"></a>Projects</button>
-        <button className='blue'><a href="#"></a>Contact</button>
+        <div className='button'>
+          <button><a href="#"></a>Projects</button>
+          <button className='blue'><a href="#"></a>Contact</button>
+        </div>
+        
         <ul>
             <li><a href="#">Github</a></li>
             <li><a href="#">LinkedIn</a></li>
