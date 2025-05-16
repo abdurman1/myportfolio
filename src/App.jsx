@@ -8,6 +8,10 @@ function App() {
     <>
       <div className='header'>
         <h1>Abdurrahman Abuoun</h1>
+        <ul>
+            <li><a href="#">Github</a></li>
+            <li><a href="#">LinkedIn</a></li>
+        </ul>
       </div>
       <div className='intro'>
         <h2>Hi I'm a <span>Frontend Developer!</span></h2>
@@ -18,10 +22,7 @@ function App() {
           <button className='blue'><a href="#"></a>Contact</button>
         </div>
         
-        <ul>
-            <li><a href="#">Github</a></li>
-            <li><a href="#">LinkedIn</a></li>
-          </ul>
+        
       </div>
     </>
   )
