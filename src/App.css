@@ -46,7 +46,10 @@ button {
     border-radius: 4rem;
     background-color: #222;
     color: #fff;
-    margin: 1rem;
+}
+
+.button {
+    margin: auto;
 }
 
 .blue {
