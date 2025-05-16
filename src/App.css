@@ -34,6 +34,12 @@ a:hover {
     color: #007ced;
 }
 
+button {
+    border: none;
+    padding: 0.75rem;
+    border-radius: 4rem;
+}
+
 .blue {
     background-color: #007ced;
 }
