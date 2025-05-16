@@ -14,7 +14,7 @@ function App() {
         <h1>Abdurrahman Abuoun</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda veniam cum nemo, mollitia vero magnam explicabo eos tempora vitae saepe nihil, corrupti quas ullam quos blanditiis excepturi perspiciatis ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nam dicta dignissimos. Nostrum nesciunt eius quidem voluptatem laborum, dolores itaque consequuntur suscipit dolorum unde! Id sapiente excepturi sunt alias quas!</p>
         <button><a href="#"></a>Projects</button>
-        <button><a href="#"></a>Contact</button>
+        <button className='blue'><a href="#"></a>Contact</button>
         <ul>
             <li><a href="#">Github</a></li>
             <li><a href="#">LinkedIn</a></li>

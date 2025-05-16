@@ -33,3 +33,7 @@ a:hover {
 .intro h1, span {
     color: #007ced;
 }
+
+.blue {
+    background-color: #007ced;
+}
