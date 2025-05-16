@@ -8,8 +8,17 @@ function App() {
 
   return (
     <>
+      <div>
+        <h1>Vite + React</h1>
+        <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
       
-      <h1>Vite + React</h1>
       <div className="card">
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
