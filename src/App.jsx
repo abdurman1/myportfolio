@@ -9,12 +9,11 @@ function App() {
   return (
     <>
       <div>
-        <h1>Vite + React</h1>
+        <h1>Abdurrahman Abuoun</h1>
         <nav>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Github</a></li>
+            <li><a href="#">LinkedIn</a></li>
           </ul>
         </nav>
       </div>
