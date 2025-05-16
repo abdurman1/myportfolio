@@ -8,12 +8,6 @@ function App() {
     <>
       <div className='header'>
         <h1>Abdurrahman Abuoun</h1>
-        <nav>
-          <ul>
-            <li><a href="#">Github</a></li>
-            <li><a href="#">LinkedIn</a></li>
-          </ul>
-        </nav>
       </div>
       <div className='intro'>
         <h2>Hi I'm a Frontend Developer!</h2>
@@ -21,6 +15,10 @@ function App() {
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda veniam cum nemo, mollitia vero magnam explicabo eos tempora vitae saepe nihil, corrupti quas ullam quos blanditiis excepturi perspiciatis ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nam dicta dignissimos. Nostrum nesciunt eius quidem voluptatem laborum, dolores itaque consequuntur suscipit dolorum unde! Id sapiente excepturi sunt alias quas!</p>
         <button><a href="#"></a>Projects</button>
         <button><a href="#"></a>Contact</button>
+        <ul>
+            <li><a href="#">Github</a></li>
+            <li><a href="#">LinkedIn</a></li>
+          </ul>
       </div>
     </>
   )
