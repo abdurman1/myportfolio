@@ -33,8 +33,8 @@ function App() {
           <img src="" alt="" />
         </div>
       </div>
-      <div className='contact'>
-
+      <div className="contact-form">
+        
       </div>
     </>
   )
