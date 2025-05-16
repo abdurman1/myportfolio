@@ -10,7 +10,7 @@ function App() {
         <h1>Abdurrahman Abuoun</h1>
       </div>
       <div className='intro'>
-        <h2>Hi I'm a Frontend Developer!</h2>
+        <h2>Hi I'm a <span>Frontend Developer!</span></h2>
         <h1>Abdurrahman Abuoun</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda veniam cum nemo, mollitia vero magnam explicabo eos tempora vitae saepe nihil, corrupti quas ullam quos blanditiis excepturi perspiciatis ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nam dicta dignissimos. Nostrum nesciunt eius quidem voluptatem laborum, dolores itaque consequuntur suscipit dolorum unde! Id sapiente excepturi sunt alias quas!</p>
         <button><a href="#"></a>Projects</button>
