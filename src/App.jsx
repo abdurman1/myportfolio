@@ -21,8 +21,6 @@ function App() {
           <button><a href="#"></a>Projects</button>
           <button className='blue'><a href="#"></a>Contact</button>
         </div>
-        
-        
       </div>
     </>
   )
