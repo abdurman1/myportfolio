@@ -24,8 +24,14 @@ function App() {
       </div>
       <div className='projects'>
         <h1>Projects</h1>
-        <h2>Ex 1</h2>
-        <img src="" alt="" />
+        <div>
+          <h2>Ex 1</h2>
+          <img src="" alt="" />
+        </div>
+        <div>
+          <h2>Ex 2</h2>
+          <img src="" alt="" />
+        </div>
       </div>
     </>
   )
