@@ -35,11 +35,11 @@ a:hover {
 }
 
 button {
-    border: none;
+    border: #fff;
     padding: 0.75rem;
     border-radius: 4rem;
+    background-color: #222;
 }
 
 .blue {
-    background-color: #007ced;
 }
