@@ -1,12 +1,16 @@
 import { useState } from 'react'
 import './App.css'
+import Navbar from './components/Navbar'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <div className='header'>
+      <React.Fragment>
+        <Navbar/>
+      </React.Fragment>
+      {/* <div className='header'>
         <h1>Abdurrahman Abuoun</h1>
         <ul>
             <li><a href="#">Github</a></li>
@@ -15,7 +19,7 @@ function App() {
         <div className='toggleBtn'>
           <i className='fa-solid fa-bars'></i>
         </div>
-      </div>
+      </div> */}
       <div className='intro'>
         <h2>Hi I'm a <span>Frontend Developer!</span></h2>
         <h1>Abdurrahman Abuoun</h1>
