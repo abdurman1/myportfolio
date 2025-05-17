@@ -33,6 +33,10 @@ body {
     overflow: hidden;
 }
 
+.dropdown.open {
+    height: 240px;
+}
+
 .dropdown li {
     padding: 0.7rem;
     display: flex;
