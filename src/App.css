@@ -17,9 +17,12 @@ body {
     justify-content: space-between;
 }
 
+.header ul {
+    display: none;
+}
+
 .toggleBtn {
     color: #fff;
-    font-size: 2rem;
 }
 
 h1, h2, p {
