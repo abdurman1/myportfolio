@@ -23,9 +23,11 @@ ul {
     margin: 0;
 }
 
-ul li {
+li {
     padding-right: 1rem;
 }
+
+
 
 a {
   font-weight: 500;
