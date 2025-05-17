@@ -13,7 +13,7 @@ function App() {
             <li><a href="#">LinkedIn</a></li>
         </ul>
         <div className='toggleBtn'>
-          <i class="fa-solid fa-bars"></i>
+          <i className='fa-solid fa-bars'></i>
         </div>
       </div>
       <div className='intro'>
