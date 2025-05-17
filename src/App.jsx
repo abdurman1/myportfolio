@@ -12,7 +12,9 @@ function App() {
             <li><a href="#">Github</a></li>
             <li><a href="#">LinkedIn</a></li>
         </ul>
-        <div className='toggleBtn'></div>
+        <div className='toggleBtn'>
+          <i class="fa-solid fa-bars"></i>
+        </div>
       </div>
       <div className='intro'>
         <h2>Hi I'm a <span>Frontend Developer!</span></h2>
