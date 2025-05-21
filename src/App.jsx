@@ -1,5 +1,7 @@
 import { useState } from 'react'
 import './App.css'
+import contactImg from './assets/contact.png';
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -41,7 +43,7 @@ function App() {
         </div>
         <div>
           <h2>Ex 2</h2>
-          <img src="assets/contact.png" alt="" />
+          <img src="{contactImg}" alt="" />
         </div>
       </div>
       <div className="contact-form">
