@@ -17,12 +17,9 @@ body {
     justify-content: space-between;
 }
 
-.header ul {
-    display: none;
-}
+
 
 .dropdown {
-    display: none;
     position: absolute;
     right: 2rem;
     top: 60px;
