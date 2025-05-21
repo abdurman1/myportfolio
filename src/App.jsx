@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import contactImg from './assets/contact.png';
 
 
 function App() {
