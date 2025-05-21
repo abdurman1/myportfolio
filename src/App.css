@@ -53,6 +53,11 @@ a:hover {
     color: #007ced;
 }
 
+.intro {
+        border-bottom: 2px solid #007ced;
+
+}
+
 button {
     font-family: "Oswald", sans-serif;
     font-size: 1.4rem;
@@ -65,9 +70,8 @@ button {
 }
 
 .button {
-    margin: 4rem 6rem;
+    margin: 6rem 6rem;
     width: 100%;
-    border-bottom: 2px solid blue;
 }
 
 .blue {
@@ -79,5 +83,5 @@ button {
 }
 
 .projects{
-    margin-top: 20rem;
+    margin-top: 10rem;
 }
