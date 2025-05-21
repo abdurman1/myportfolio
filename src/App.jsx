@@ -14,12 +14,7 @@ function App() {
         </ul>
       </div>
       
-
-
-
-
-
-
+      
 
       <div className='intro'>
         <h2>Hi I'm a <span>Frontend Developer!</span></h2>
