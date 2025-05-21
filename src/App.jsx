@@ -14,7 +14,7 @@ function App() {
         </ul>
       </div>
       
-      
+
 
       <div className='intro'>
         <h2>Hi I'm a <span>Frontend Developer!</span></h2>
@@ -41,7 +41,7 @@ function App() {
         </div>
         <div>
           <h2>Ex 2</h2>
-          <img src="" alt="" />
+          <img src="assets/contact.png" alt="" />
         </div>
       </div>
       <div className="contact-form">
